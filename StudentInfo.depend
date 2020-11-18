@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1554954590 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\main.cpp
+	"UnsortedType.cpp"
+	"StudentInfo.h"
+	<iostream>
+
+1554954590 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\unsortedtype.cpp
+	"UnsortedType.h"
+
+1554954590 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\unsortedtype.h
+
+1554954537 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\studentinfo.h
+	<string>
+	<iostream>
+
+1554954590 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\studentinfo.cpp
+	"StudentInfo.h"
+
+1554954590 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\unsortedtype.cpp
+	"UnsortedType.h"
+
+1554954590 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\main.cpp
+	"UnsortedType.cpp"
+	"StudentInfo.h"
+	<iostream>
+
+1554954590 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\unsortedtype.cpp
+	"UnsortedType.h"
+
+1554954590 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\unsortedtype.h
+
+1554954537 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\studentinfo.h
+	<string>
+	<iostream>
+
+1554954590 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\studentinfo.cpp
+	"StudentInfo.h"
+
+1554954590 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\studentinfo\unsortedtype.cpp
+	"UnsortedType.h"
+
